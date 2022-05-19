@@ -3,10 +3,10 @@ using namespace std;
 int main(){
 if(0)
 {
-cout<<'Hellosdcwdcwexewxx';
+cout<<'ola';
 }
 else{
-cout<<'bye';
+cout<<'bye..!';
 }
 return 0;
 }
