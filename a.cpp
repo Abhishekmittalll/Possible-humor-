@@ -6,7 +6,7 @@ if(0)
 cout<<'ola';
 }
 else{
-cout<<'bye';
+cout<<'bye..!';
 }
 return 0;
 }
